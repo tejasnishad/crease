@@ -15,3 +15,6 @@ Specify a range with min/max. To convert into a stepped slider, specify a non-ze
 
 4) Enum:
 Provide a JSON array of labels. Output is the index of the currently selected item. Similarly to the slider, you can set a default value and double-tap (in this case only the label can be double-tapped) to reset the value to defaults.
+
+5) Button:
+A button. Outputs a pulse when tapped.
