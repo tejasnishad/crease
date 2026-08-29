@@ -5,7 +5,7 @@ Crease is a control panel for Origami, in the vein of Tweakpane and Dialkit.
 ## Components:
 
 1) Crease Panel:
-Comprises the panel and an overlay. Swipe from the right edge to trigger, or disable the action and hook up custom triggers with pulse inputs.
+Comprises the panel and an overlay. Swipe from the right edge to trigger, or disable the action and hook up custom triggers with pulse inputs. You can drop crease components (or even your own) directly inside the panel layer.
 
 2) Checkbox:
 Outputs a boolean value.
