@@ -1,8 +1,6 @@
-# CREASE
+# Crease
 
 Crease is a control panel for Origami, in the vein of Tweakpane and Dialkit.
-
----
 
 ## Components:
 
